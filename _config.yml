@@ -6,19 +6,19 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: Proba sait
 
 # Your name to show in the footer
-author: Some Person
+author: moi meme
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - Primul linc: "https://vsmf.com"
+    - Al 2lea link: "https://www.fb.com/"
+  Author's home: "https://pana.mea"
 
 # --- Logo --- #
 
@@ -39,12 +39,12 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
+  email: "je@server.com"
+  feisbuc: kilu
+  github: kilu
   twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  patreon: lamea
+  youtube: c/kilu
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
